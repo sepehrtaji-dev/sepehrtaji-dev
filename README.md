@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://github.com/sepehrtaji-dev/Nova-agent"><img src="https://img.shields.io/badge/Nova-Local%20AI-7c3aed?style=flat-square&logo=ollama&logoColor=white" alt="Nova Agent" /></a>
-  <a href="https://github.com/sepehrtaji-dev/chess-model"><img src="https://img.shields.io/badge/ChessNet-Neural%20Chess-c4b5fd?style=flat-square&logo= lichess&logoColor=18181b" alt="Chess model" /></a>
+  <a href="https://github.com/sepehrtaji-dev/chess-model"><img src="https://img.shields.io/badge/ChessNet-Neural%20Chess-c4b5fd?style=flat-square&logo=lichess&logoColor=18181b" alt="Chess model" /></a>
   <a href="https://github.com/sepehrtaji-dev?tab=followers"><img src="https://img.shields.io/github/followers/sepehrtaji-dev?style=flat-square&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
 </p>
 

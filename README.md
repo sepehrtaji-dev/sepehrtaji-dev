@@ -20,6 +20,12 @@
   <a href="https://github.com/sepehrtaji-dev?tab=followers"><img src="https://img.shields.io/github/followers/sepehrtaji-dev?style=flat-square&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
 </p>
 
+## ⚡ At a glance · Live Repository Matrix
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1900&pause=650&color=8B5CF6&center=true&vCenter=true&width=520&height=24&lines=%5B+LIVE+PROJECT+FEED+%5D;%5B+PURPLE+CYBER+INTERFACE+%5D" alt="Animated At a glance project feed" />
+</div>
+
 <!-- CYBER PURPLE / ANIMATED REPOSITORY MATRIX -->
 <table align="center" width="100%">
   <tr>

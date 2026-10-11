@@ -1,40 +1,116 @@
 <div align="center">
 
 <a href="https://github.com/sepehrtaji-dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,35:4c1d95,70:7c3aed,100:a78bfa&text=SEPEHR%20TAJI&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Builder%20%E2%80%A2%20Local-first%20AI%20%E2%80%A2%20Curious%20by%20default&descSize=16&descAlignY=59&animation=fadeIn" width="100%" alt="Sepehr Taji — AI builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090b,35:312e81,70:7c3aed,100:c4b5fd&text=SEPEHR%20TAJI&fontColor=ffffff&fontSize=54&fontAlignY=37&desc=AI%20Builder%20%7C%20Local-first%20AI%20%7C%20Learn%20by%20building&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sepehr Taji — AI builder" />
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=Building+Nova%2C+my+local+AI+agent;Exploring+machine+learning+from+the+inside;Turning+ideas+into+working+experiments;Always+learning.+Always+building." alt="Animated typing introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&height=38&lines=Building+Nova%2C+a+local-first+AI+agent;Exploring+how+machine+learning+works+under+the+hood;From+ideas+to+working+experiments;Curious+by+default.+Building+every+day." alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="#my-toolbox"><img src="https://img.shields.io/badge/My%20Toolbox-Explore-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="My Toolbox" /></a>
-  <a href="#at-a-glance"><img src="https://img.shields.io/badge/At%20a%20Glance-Stats-18181b?style=for-the-badge&logo=github&logoColor=white" alt="At a glance" /></a>
-  <a href="#repo-animation"><img src="https://img.shields.io/badge/Repo%20Animation-See%20it-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Repo animation" /></a>
-  <a href="https://github.com/sepehrtaji-dev?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Explore-Projects-7c3aed?style=for-the-badge" alt="Explore projects" /></a>
+  <a href="#-current-focus"><img src="https://img.shields.io/badge/Current-Focus-18181b?style=for-the-badge" alt="Current focus" /></a>
+  <a href="https://github.com/sepehrtaji-dev?tab=repositories"><img src="https://img.shields.io/badge/All-Repositories-18181b?style=for-the-badge&logo=github" alt="All repositories" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/sepehrtaji-dev/Nova-agent"><img src="https://img.shields.io/badge/Meet%20Nova-Local%20AI-7c3aed?style=flat-square&logo=ollama&logoColor=white" alt="Meet Nova" /></a>
-  <a href="https://github.com/sepehrtaji-dev/chess-model"><img src="https://img.shields.io/badge/Chess%20Model-AI%20Experiment-18181b?style=flat-square&logo=lichess&logoColor=white" alt="Chess model" /></a>
-  <a href="https://github.com/sepehrtaji-dev?tab=followers"><img src="https://img.shields.io/github/followers/sepehrtaji-dev?style=flat-square&logo=github&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
+  <a href="https://github.com/sepehrtaji-dev/Nova-agent"><img src="https://img.shields.io/badge/Nova-Local%20AI-7c3aed?style=flat-square&logo=ollama&logoColor=white" alt="Nova Agent" /></a>
+  <a href="https://github.com/sepehrtaji-dev/chess-model"><img src="https://img.shields.io/badge/ChessNet-Neural%20Chess-c4b5fd?style=flat-square&logo= lichess&logoColor=18181b" alt="Chess model" /></a>
+  <a href="https://github.com/sepehrtaji-dev?tab=followers"><img src="https://img.shields.io/github/followers/sepehrtaji-dev?style=flat-square&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
 </p>
 
 </div>
 
 ---
 
-## ⚡ At a glance
+## 👋 Hey, I'm Sepehr
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sepehrtaji-dev&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=c4b5fd&text_color=e4e4e7&ring_color=8b5cf6&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrtaji-dev&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=e4e4e7&langs_count=8" alt="Most used languages" />
-</div>
+I'm an AI enthusiast who learns by building. I like understanding what's happening *under the hood*—how neural networks learn, how agents use tools, and how software works closer to the machine.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sepehrtaji-dev&hide_border=true&background=09090b&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=e4e4e7&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" alt="GitHub contribution streak" width="70%" />
-</div>
+I'm especially interested in **local-first AI**: building useful systems that can run with models on hardware I control, instead of depending on a hosted API for every step.
+
+- 🧠 Exploring AI, machine learning, and neural networks
+- 🛠️ Building **Nova**, a local-first AI agent around Ollama
+- ♟️ Experimenting with chess models and decision-making
+- 🔬 Building practical ML experiments and learning from their results
+- ⚙️ Exploring C/C++ and lower-level programming
+- 📐 Learning the mathematics behind AI, one concept at a time
+
+> *Curiosity is the roadmap. Building is how I learn.*
+
+## ✦ Featured projects
+
+### 🌌 [Nova Agent](https://github.com/sepehrtaji-dev/Nova-agent)
+**A local-first agent that acts, observes, and verifies.**
+
+Nova is a Python agent built around a locally served language model. It can plan multi-step tasks, call registered tools, inspect real outputs, re-plan after failures, and use user-controlled local memory. Nova is an agent runtime—not a foundation model trained from scratch.
+
+<p>
+  <a href="https://github.com/sepehrtaji-dev/Nova-agent"><img src="https://img.shields.io/badge/Source%20code-Explore%20Nova-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore Nova source code" /></a>
+  <a href="https://github.com/sepehrtaji-dev/Nova-agent/actions"><img src="https://img.shields.io/badge/CI-View%20workflows-18181b?style=for-the-badge&logo=githubactions&logoColor=white" alt="View Nova CI" /></a>
+</p>
+
+**What makes it interesting**
+- Local inference through Ollama
+- Registered tools with real execution results
+- Verification that distinguishes a claim from a confirmed result
+- Workspace-aware file and terminal operations
+- User-controlled local memory and capability toggles
+
+### ♟️ [ChessNet — Chess Model](https://github.com/sepehrtaji-dev/chess-model)
+**A neural-network chess experiment with an interactive desktop UI.**
+
+ChessNet predicts human moves from board positions. The project includes a PySide6 interface, multiple playing styles, difficulty controls, evaluation feedback, game review, and training/evaluation code.
+
+<p>
+  <a href="https://github.com/sepehrtaji-dev/chess-model"><img src="https://img.shields.io/badge/Source%20code-Explore%20ChessNet-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore ChessNet" /></a>
+  <a href="https://github.com/sepehrtaji-dev/chess-model/blob/master/assets/chessnet_architecture.svg"><img src="https://img.shields.io/badge/Model-View%20architecture-18181b?style=for-the-badge" alt="View model architecture" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/sepehrtaji-dev/chess-model/master/assets/chessnet_architecture.svg" width="100%" alt="ChessNet neural network architecture" />
+
+### 🧬 [Histopathologic Cancer Detection](https://github.com/sepehrtaji-dev/Histopathologic-cancer)
+**A hands-on deep-learning classification project.**
+
+A ResNet18-based image-classification experiment with a PyQt6 desktop interface for exploring inference on histopathology patches.
+
+<p align="center">
+  <a href="https://github.com/sepehrtaji-dev/Histopathologic-cancer">
+    <img src="https://raw.githubusercontent.com/sepehrtaji-dev/Histopathologic-cancer/main/_nova_preview.png" width="85%" alt="Preview of the histopathology image classification desktop app" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/sepehrtaji-dev/Histopathologic-cancer"><img src="https://img.shields.io/badge/Source%20code-Explore%20project-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore histopathology project" /></a>
+</p>
+
+> Educational and research use only. This project is not a medical diagnostic tool.
+
+---
+
+## 🎯 Current focus
+
+<details open>
+<summary><strong>🛠️ Nova — agent reliability</strong></summary>
+
+Improving tool execution, error recovery, verification, and the overall local-agent experience. The goal is for Nova to report what its tools actually confirmed—not simply what the model says happened.
+
+</details>
+
+<details>
+<summary><strong>🧠 Machine learning from the inside</strong></summary>
+
+Learning more about model architectures, training pipelines, evaluation, and how to make experiments reproducible and measurable.
+
+</details>
+
+<details>
+<summary><strong>⚙️ C/C++ and computer fundamentals</strong></summary>
+
+Exploring memory, performance, and the lower-level concepts behind the software I use and build.
+
+</details>
 
 ## 🧰 My toolbox
 
@@ -44,108 +120,43 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-ffffff?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
-<img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch and neural networks" />
-<img src="https://img.shields.io/badge/AI-Machine%20Learning-7c3aed?style=for-the-badge" alt="AI and machine learning" />
-<img src="https://img.shields.io/badge/Approach-Learn%20by%20building-18181b?style=for-the-badge" alt="Learn by building" />
+<img src="https://img.shields.io/badge/Local%20AI-Ollama-ffffff?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama local AI" />
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Approach-Learn%20by%20building-7c3aed?style=for-the-badge" alt="Learn by building" />
 
 </div>
 
-## 🐍 Repo animation
+## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sepehrtaji-dev/sepehrtaji-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving across my GitHub contribution graph" width="100%" />
-  <sub>The snake animation is generated automatically by GitHub Actions. The first run may take a little while to publish.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=sepehrtaji-dev&show_icons=true&hide_border=true&bg_color=09090b&title_color=c4b5fd&icon_color=a78bfa&text_color=e4e4e7&ring_color=8b5cf6&include_all_commits=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrtaji-dev&layout=compact&hide_border=true&bg_color=09090b&title_color=c4b5fd&text_color=e4e4e7&langs_count=6" height="165" alt="Most used languages" />
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sepehrtaji-dev&hide_border=true&background=09090b&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e4e4e7&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" width="80%" alt="GitHub contribution streak" />
+</div>
 
-## whoami
-
-Hey! I'm **Sepehr** — an AI enthusiast who learns by building.
-
-I'm curious about what's happening *under the hood*: how models learn, how agents use tools, and how to turn an idea into a real, working project. I especially enjoy experimenting with **local AI**, so models can run on my own machine instead of relying on a hosted API.
-
-- 🧠 Exploring AI, machine learning, and neural networks
-- 🛠️ Building **Nova**, a local-first AI agent powered by Ollama
-- ♟️ Experimenting with chess engines and AI decision-making
-- 🔬 Learning by creating practical ML experiments
-- 💻 Exploring C/C++ and how software works closer to the machine
-- 📐 Interested in advanced mathematics and the ideas behind machine learning
-- 🌍 Improving my English alongside programming and AI
-
-> *Curiosity is the roadmap. Building is how I learn.*
-
-## 🧭 Things I'm exploring
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 PyTorch & Neural Networks</h3>
-      Learning how neural networks represent patterns, how training works, and how to build experiments from the ground up.
-    </td>
-    <td width="50%" valign="top">
-      <h3>📐 Advanced Mathematics</h3>
-      Exploring the mathematical ideas that power AI: algebra, functions, probability, linear algebra, and eventually calculus.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ C / C++</h3>
-      Understanding memory, performance, and how programs work at a lower level.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 English</h3>
-      Building stronger English skills to read documentation, understand research, and communicate technical ideas.
-    </td>
-  </tr>
-</table>
-
-## ✦ Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/sepehrtaji-dev/Nova-agent">Nova Agent</a></h3>
-      A local-first AI agent built around Ollama. Nova can plan tasks, use registered tools, inspect tool results, re-plan after failures, and work with user-controlled local memory.
-      <br/><br/>
-      <a href="https://github.com/sepehrtaji-dev/Nova-agent"><img src="https://img.shields.io/badge/Explore%20Nova-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Explore Nova" /></a>
-      <img src="https://img.shields.io/badge/AI-Agent-18181b?style=flat-square" alt="AI agent" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>♟️ <a href="https://github.com/sepehrtaji-dev/chess-model">Chess Model</a></h3>
-      An AI chess project exploring move selection, evaluation, model behavior, and an interactive chess experience.
-      <br/><br/>
-      <a href="https://github.com/sepehrtaji-dev/chess-model"><img src="https://img.shields.io/badge/Explore%20Chess%20Model-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Explore chess model" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/sepehrtaji-dev/Histopathologic-cancer">Histopathologic Cancer</a></h3>
-      A machine-learning practice project using histopathology image data to explore dataset handling, model training, and prediction workflows. <strong>For learning and experimentation, not clinical use.</strong>
-      <br/><br/>
-      <a href="https://github.com/sepehrtaji-dev/Histopathologic-cancer"><img src="https://img.shields.io/badge/Explore%20ML%20Project-7c3aed?style=flat-square&logo=github&logoColor=white" alt="Explore ML project" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 More experiments</h3>
-      I keep experimenting with AI, interfaces, automation, and ideas I want to understand better.
-      <br/><br/>
-      <a href="https://github.com/sepehrtaji-dev?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-18181b?style=flat-square&logo=github&logoColor=white" alt="Browse repositories" /></a>
-    </td>
-  </tr>
-</table>
-
-## 🤝 Find me here
+## 🐍 Contributions
 
 <div align="center">
-  <a href="https://github.com/sepehrtaji-dev"><img src="https://img.shields.io/badge/GitHub-sepehrtaji--dev-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://github.com/sepehrtaji-dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-6d28d9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <img src="https://raw.githubusercontent.com/sepehrtaji-dev/sepehrtaji-dev/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake" width="100%" />
+  <sub>Generated automatically by GitHub Actions. If it doesn't appear immediately, check the repository's Actions tab for the latest run.</sub>
+</div>
+
+## 🤝 Let's connect
+
+I'm always interested in learning, building, and exchanging ideas about AI and software.
+
+<div align="center">
+  <a href="https://github.com/sepehrtaji-dev"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub" /></a>
+  <a href="https://github.com/sepehrtaji-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20projects-7c3aed?style=for-the-badge" alt="Explore repositories" /></a>
 </div>
 
 <div align="center">
 
 ### *Still learning. Still building. Just getting started.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:4c1d95,100:7c3aed&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:4c1d95,100:7c3aed&height=110&section=footer" width="100%" alt="" />
 
 </div>

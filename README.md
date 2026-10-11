@@ -20,6 +20,43 @@
   <a href="https://github.com/sepehrtaji-dev?tab=followers"><img src="https://img.shields.io/github/followers/sepehrtaji-dev?style=flat-square&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
 </p>
 
+<!-- CYBER PURPLE / ANIMATED REPOSITORY MATRIX -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=650&height=32&lines=%3E+SYSTEM+ONLINE+%2F%2F+REPOSITORY+MATRIX;%3E+INITIALIZING+AI+LAB...;%3E+THREE+PROJECTS.+ONE+MISSION." alt="Animated cyber dashboard status" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sepehrtaji-dev/Nova-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sepehrtaji-dev&repo=Nova-agent&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&border_radius=12" width="100%" alt="Nova Agent repository card" />
+      </a>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=320&height=20&lines=%5B+LOCAL+AI+%2F+AGENT+SYSTEMS+%5D" alt="Nova animated label" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sepehrtaji-dev/chess-model">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sepehrtaji-dev&repo=chess-model&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&border_radius=12" width="100%" alt="ChessNet repository card" />
+      </a>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=320&height=20&lines=%5B+NEURAL+NETWORKS+%2F+CHESS+AI+%5D" alt="ChessNet animated label" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/sepehrtaji-dev/Histopathologic-cancer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sepehrtaji-dev&repo=Histopathologic-cancer&hide_border=true&bg_color=0D0718&title_color=C4B5FD&text_color=E9D5FF&icon_color=A78BFA&border_radius=12" width="70%" alt="Histopathologic Cancer Detection repository card" />
+      </a>
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=11&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=380&height=20&lines=%5B+COMPUTER+VISION+%2F+DEEP+LEARNING+%5D" alt="Computer vision animated label" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STYLE-CYBER%20PURPLE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Cyber purple theme" />
+  <img src="https://komarev.com/ghpvc/?username=sepehrtaji-dev&style=for-the-badge&color=7C3AED&label=PROFILE+SCANS" alt="Profile views" />
+</p>
+
 </div>
 
 ---
@@ -129,6 +166,10 @@ Exploring memory, performance, and the lower-level concepts behind the software 
 ## 📊 GitHub activity
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2000&pause=800&color=C4B5FD&center=true&vCenter=true&width=520&height=28&lines=%3E+LIVE+GITHUB+TELEMETRY;%3E+ACTIVITY+%2F+LANGUAGES+%2F+STREAKS" alt="Animated GitHub telemetry heading" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sepehrtaji-dev&show_icons=true&hide_border=true&bg_color=09090b&title_color=c4b5fd&icon_color=a78bfa&text_color=e4e4e7&ring_color=8b5cf6&include_all_commits=true" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrtaji-dev&layout=compact&hide_border=true&bg_color=09090b&title_color=c4b5fd&text_color=e4e4e7&langs_count=6" height="165" alt="Most used languages" />
 </div>
@@ -136,6 +177,15 @@ Exploring memory, performance, and the lower-level concepts behind the software 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sepehrtaji-dev&hide_border=true&background=09090b&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=e4e4e7&currStreakNum=ffffff&sideNums=ffffff&dates=a1a1aa" width="80%" alt="GitHub contribution streak" />
 </div>
+
+<details>
+<summary><strong>⌁ Open the live activity graph</strong></summary>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sepehrtaji-dev&bg_color=090512&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&area_color=4C1D95&hide_border=true&radius=10" width="100%" alt="GitHub activity graph in cyber purple" />
+</div>
+
+</details>
 
 ## 🐍 Contributions
 
